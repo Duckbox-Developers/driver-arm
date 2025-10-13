@@ -1,0 +1,8 @@
+git-*
+.patch
+.diff
+
+### editor crap
+*.orig
+*.rej
+*~
